@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(touch .gitignore)",
+      "Bash(flutter analyze:*)",
+      "Bash(mkdir -p .memory/session .memory/todo)"
+    ]
+  }
+}
